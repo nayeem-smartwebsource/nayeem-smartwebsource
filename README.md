@@ -50,12 +50,3 @@ Short description of what the project does and the problem it solves.
 
 **Tech:** Laravel, React, Inertia.js, Tailwind CSS
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-### 📫 Connect With Me
-
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO
-- Email: YOUR_EMAIL
